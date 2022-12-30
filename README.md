@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ToniLommez
-- 👀 I’m interested in Ethical Hacking, cybersecurity and a good retrowave music/style
-- 🌱 I’m currently in computer science college
-- 📫 You can reach me in my facebook fb.com/toni.lommez/
-
+- 👀 I’m interested in Artificial Inteligence, Back-end and a good retrowave music/style
+- 🌱 I'm in the third period of computer science at puc minas
+- 📫 You can reach me in my [LinkedIn](https://www.linkedin.com/in/marcos-antônio-lommez-cândido-ribeiro-310936245/)
