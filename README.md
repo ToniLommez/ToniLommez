@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ToniLommez
 - 👀 I’m interested in Artificial Inteligence, Back-end and a good retrowave music/style
 - 🌱 I'm in the third period of computer science at puc minas
-- 📫 You can reach me in my [LinkedIn](https://www.linkedin.com/in/marcos-antônio-lommez-cândido-ribeiro-310936245/)
+- 📫 You can reach me in my [LinkedIn](https://www.linkedin.com/in/marcos-antônio-lommez-cândido-ribeiro-310936245/) or [Whatsapp](https://wa.me/5531996251859)
