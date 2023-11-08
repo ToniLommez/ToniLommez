@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ToniLommez
 - 👀 I’m interested in Compilers, Back-end, Artificial Intelligence and a good cyberpunk vibe
 - 🌱 I'm in the fourth period of computer science college
-- 📫 You can reach me in my [LinkedIn](www.linkedin.com/in/mlommez) or [Whatsapp](https://wa.me/5531996251859)
+- 📫 You can reach me in my [LinkedIn](https://www.linkedin.com/in/mlommez/) or [Whatsapp](https://wa.me/5531996251859)
