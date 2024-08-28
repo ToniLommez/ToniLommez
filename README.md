@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ToniLommez
-- 👀 I’m interested in Compilers, Back-end, Artificial Intelligence and a good cyberpunk vibe
+- 👀 I’m interested in Compilers, Operational System, Image Processing and Analysis, Artificial Intelligence and a good cyberpunk vibe
 - 🌱 I'm in the sixth period of computer science college
 - 🚀 Going on exchange to Germany in 2025
 - 🌍 Portuguese (native), English (fluent), Japanese (intermediate), German (beginner)
