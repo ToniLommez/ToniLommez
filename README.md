@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @ToniLommez
 - 👀 I’m interested in Compilers, Back-end, Artificial Intelligence and a good cyberpunk vibe
-- 🌱 I'm in the fifth period of computer science college
+- 🌱 I'm in the sixth period of computer science college
+- 🚀 Going on exchange to Germany in 2025
+- 🌍 Portuguese (native), English (fluent), Japanese (intermediate), German (beginner)
 - 📫 You can reach me in my [LinkedIn](https://www.linkedin.com/in/mlommez/) or [Whatsapp](https://wa.me/5531996251859)
