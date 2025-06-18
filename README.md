@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ToniLommez
-- 👀 I’m interested in Compilers, Operational System, Image Processing and Analysis, Artificial Intelligence and a good cyberpunk vibe
-- 🌱 I'm in the sixth period of computer science college
-- 🚀 Going on exchange to Germany in 2025
-- 🌍 Portuguese (native), English (fluent), Japanese (intermediate), German (beginner)
+- 👀 I’m interested in Compilers, Operational System, Artificial Intelligence and a good cyberpunk vibe
+- 🌱 I'm in the seventh period of computer science college
+- 🌍 Portuguese (native), English (fluent), Japanese (intermediate)
 - 📫 You can reach me in my [LinkedIn](https://www.linkedin.com/in/mlommez/) or [Whatsapp](https://wa.me/5531996251859)
